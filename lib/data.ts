@@ -191,10 +191,10 @@ export const projects: Project[] = [
   },
   
   {
-    title: "Zen Monke",
+    title: "Mind Monke",
     description:
-      "Zen Monke aims to fight the stigma against the topic and provide quick and simple resources to cope with life's highs and lows.",
-    link: "https://zenmonke.netlify.app/",
+      "Mind Monke aims to fight the stigma against the topic and provide quick and simple resources to cope with life's highs and lows.",
+    link: "https://mindmonke.netlify.app/",
     tags: [
       "HTML",
       "CSS",
